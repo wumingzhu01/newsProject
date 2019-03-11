@@ -1,0 +1,84 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - FrameAccessor (2.0)
+  - FXKeychain (1.5.3)
+  - MBProgressHUD (1.1.0)
+  - MWFeedParser (1.0.1):
+    - MWFeedParser/FeedParser (= 1.0.1)
+    - "MWFeedParser/NSDate+InternetDateTime (= 1.0.1)"
+    - "MWFeedParser/NSString+HTML (= 1.0.1)"
+  - MWFeedParser/FeedParser (1.0.1):
+    - "MWFeedParser/NSDate+InternetDateTime"
+    - "MWFeedParser/NSString+HTML"
+  - "MWFeedParser/NSDate+InternetDateTime (1.0.1)"
+  - "MWFeedParser/NSString+HTML (1.0.1)"
+  - NSString-Hashes (1.2.2)
+  - NYXImagesKit (2.3)
+  - RegexKitLite (4.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BlocksKit
+  - FrameAccessor
+  - FXKeychain
+  - MBProgressHUD
+  - MWFeedParser
+  - NSString-Hashes
+  - NYXImagesKit
+  - RegexKitLite
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - BlocksKit
+    - FrameAccessor
+    - FXKeychain
+    - MBProgressHUD
+    - MWFeedParser
+    - NSString-Hashes
+    - NYXImagesKit
+    - RegexKitLite
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  FrameAccessor: 443a13e58e23a10ff22180da0897b28c3f6abf66
+  FXKeychain: 2fe54573946ffef634f4e2a2851e6c8f4ea15e76
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MWFeedParser: 2cf646014c1baf6ad1b08c480b40a08180079247
+  NSString-Hashes: c3848d809e92650e4fb17db5d8cc4bd2aa1eaddd
+  NYXImagesKit: 8163e3335a40eaa173ca5bbbf81fafb57d3947eb
+  RegexKitLite: c0e4c12e6e7de0769f3a3ed679f0f61604170661
+
+PODFILE CHECKSUM: 500ce6a5eae129a6140dc8f7a6161c7651918e93
+
+COCOAPODS: 1.6.1
